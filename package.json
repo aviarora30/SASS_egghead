@@ -1,0 +1,27 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "Egghead SASS tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviarora30/SASS_egghead.git"
+  },
+  "keywords": [
+    "sass",
+    "egghead",
+    "css"
+  ],
+  "author": "Avinash Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviarora30/SASS_egghead/issues"
+  },
+  "homepage": "https://github.com/aviarora30/SASS_egghead#readme",
+  "devDependencies": {
+    "node-sass": "^4.5.2"
+  }
+}
